@@ -98,3 +98,51 @@ Identificar los elementos de navegación.
 4. El marco celeste encierra el footer, que es un tipo de navegación global, pues también se mantiene en cada site de la página.
 
 
+
+## Medium
+
+### Figura 1:
+
+![Figura -1](assets/images-medium/figure-1.jpg)
+
+1. El marco naranja señala las utilidades de la página.
+
+2. El marco verde señala la navegación global de las secciones de la página.
+
+3. El marco negro señala el identificador de la página, en este caso el logotipo.
+
+4. El marco celeste señala la navegación de una de las secciones, mostrando primero lo más buscado y una opción de cargar más.
+
+### Figura 2:
+
+![Figura -2](assets/images-medium/figure-2.jpg)
+
+1. El marco negro señala la navegación global que se mantiene aunque se baje el scroll al explorar la página.
+
+2. El marco verde señala otra sección de la página y como se muestran los temas vistos recientemente.
+
+3. El marco rojo señala el footer que se mantiene en cada página, con un tipo de navegación global.
+
+
+### Figura 3:
+
+![Figura -3](assets/images-medium/figure-3.jpg)
+
+1. El marco rojo indica al usuario donde se encuentra en la página. 
+
+2. El marco verde son las opciones de navegación facetada de la subsección "Self".
+
+3. El marco negro señala las opciones de navegación según el tema seleccionado.
+
+
+### Figura 4:
+
+![Figura -4](assets/images-medium/figure-4.jpg)
+
+1. El marco rojo señala el identificador que lleva al usuario de regreso a la página principal.
+
+2. El marco celeste señala las utilidades.
+
+3. El marco amarillo señala la navegación local de la subsección
+
+
