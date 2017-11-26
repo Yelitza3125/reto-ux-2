@@ -53,4 +53,48 @@ Identificar los elementos de navegación.
 2. El marco verde señala un tipo de navegación filtrada porque le da opción al usuario de aplicar filtros a "when" y "where", de acuerdo a la ciudad en la que se encuentra. Además tiene una opción de más filtros al lado derecho.
 
 
+## Github
+
+### Figura 1:
+
+![Figura -1](assets/images-github/figure-1.jpg)
+
+1. El marco rojo señala la navegación global.
+
+2. El marco amarillo señala el identificador de la página.
+
+3. Al lado del identificador tenemos el buscador directo. 
+
+### Figura 2:
+
+![Figura -2](assets/images-github/figure-2.jpg)
+
+1. El marco rojo señala las subsecciones de la opción explore.
+
+2. Debajo tenemos opciones de navegación por "colecciones" y "temas".
+
+3. En la parte superior se mantiene la navegación global.
+
+### Figura 3:
+
+![Figura -3](assets/images-github/figure-3.jpg)
+
+1. El margo verde señala las pestañas que indican el lugar donde se encuentra el usuario.
+
+2. El marco rojo señala la navegación facetada de búsqueda de repositorios, además de un buscador search directo.
+
+3. En el footer tenemos una navegación global que se mantiene en cada página del site.
+
+### Figura 4:
+
+![Figura -4](assets/images-github/figure-4.jpg)
+
+1. El marco rojo señala la navegación global que se mantiene en cada site de la página.
+
+2. El marco verde señala la navegación local de la sección a la que se ha accedido. 
+
+3. El marco amarillo, señala un elemento search.
+
+4. El marco celeste encierra el footer, que es un tipo de navegación global, pues también se mantiene en cada site de la página.
+
 
